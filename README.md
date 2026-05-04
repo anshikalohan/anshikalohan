@@ -1,7 +1,5 @@
 # Hi 👋, I'm Anshika Lohan
 
-![Profile Views](https://komarev.com/ghpvc/?username=anshikalohan&label=Profile%20Views&color=0e75b6&style=flat)
-
 B.Tech 3rd year CSE @ Manipal University Jaipur (CGPA: 9.12)
 AI | Machine Learning | Gen AI | Full Stack Developer
 
@@ -63,4 +61,4 @@ AI | Machine Learning | Gen AI | Full Stack Developer
 * [anshika.lohan.03@gmail.com](mailto:anshika.lohan.03@gmail.com)
 * LinkedIn: https://linkedin.com/in/anshikalohan
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=anshikalohan&label=Profile%20Views&color=0e75b6&style=flat)

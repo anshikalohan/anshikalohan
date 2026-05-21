@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshika Lohan
 
-B.Tech 3rd year CSE @ Manipal University Jaipur (CGPA: 9.12)
+B.Tech 3rd year CSE @ Manipal University Jaipur (CGPA: 9.25)
 AI | Machine Learning | Gen AI | Full Stack Developer
 
 ---
@@ -42,7 +42,7 @@ AI | Machine Learning | Gen AI | Full Stack Developer
 ## Achievements
 
 * 1st Place – MUJ ACM Hackathon
-* Dean’s List (3 Semesters)
+* Dean’s List (4 Semesters)
 * SIH 2025 – Selected among 500+ teams
 
 ---

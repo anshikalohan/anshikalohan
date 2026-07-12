@@ -1,6 +1,6 @@
 # Hi 👋, I'm Anshika Lohan
 
-B.Tech 3rd year CSE @ Manipal University Jaipur (CGPA: 9.25)
+B.Tech 4th year CSE @ Manipal University Jaipur (CGPA: 9.25)
 AI | Machine Learning | Gen AI | Full Stack Developer
 
 ---
